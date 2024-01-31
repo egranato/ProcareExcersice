@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdFYSgi5fBw+yS7dCfyUdGjF9tV999sG6IIaGVp5o5Ufo5xsAXMD757N6g+xHBW0lPbqeipJY3bFQOCMb9uThg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\Development\\interview\\Procare.AddressValidation.Tester\\Procare.AddressValidation.Tester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

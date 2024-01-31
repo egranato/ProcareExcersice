@@ -1,0 +1,14 @@
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\bin\Debug\net8.0\Procare.AddressValidation.Tester.exe
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\bin\Debug\net8.0\Procare.AddressValidation.Tester.deps.json
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\bin\Debug\net8.0\Procare.AddressValidation.Tester.runtimeconfig.json
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\bin\Debug\net8.0\Procare.AddressValidation.Tester.dll
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\bin\Debug\net8.0\Procare.AddressValidation.Tester.pdb
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.AssemblyInfoInputs.cache
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.AssemblyInfo.cs
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.dll
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\refint\Procare.AddressValidation.Tester.dll
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.pdb
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\Procare.AddressValidation.Tester.genruntimeconfig.cache
+C:\Users\ethan\Development\interview\Procare.AddressValidation.Tester\obj\Debug\net8.0\ref\Procare.AddressValidation.Tester.dll
